@@ -18,17 +18,17 @@ hashes printed should be equal to the input value.
 5 4 3 2 1 <br>
 Output:<br>
 
-     #####
-     ####
-     ###
-     ##
-     #
+          #####
+          ####
+          ###
+          ##
+          #
 
 2. Input:
 16 0 4 12 <br>
 Output: <br>
 
 
-     ################
-     ####
-     ############
+          ################
+          ####
+          ############
